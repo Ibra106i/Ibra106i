@@ -26,7 +26,7 @@
   <img src="https://www.gitskins.com/api/section/highlights?username=ibra106i&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219994091%3Fu%3Dc730d8ceea2c8d715423b2828a877bba8339658f%26v%3D4" alt="ibra106i highlights visual" />
 </p>
 
-<p><b>Ibrahim Asad</b> is shipping 11 public projects with 0 stars of proof.</p>
+<p><b>Ibrahim Asad</b> is shipping 11 public projects.</p>
 
 ## Products and proof
 
