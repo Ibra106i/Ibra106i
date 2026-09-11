@@ -16,7 +16,6 @@
 
 > Flutter &amp; Dart, Python, Next.js, custom Java plugins. I build across the entire stack. Working on my own startup. Reach out on LinkedIn.
 
-- 👥 **4** followers · **2** following
 
 *Small, useful work over vague claims.*
 
